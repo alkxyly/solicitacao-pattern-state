@@ -1,0 +1,1 @@
+# solicitacao-pattern-state
